@@ -13,6 +13,11 @@ class Config :
     S3_LOCATION = 'https://pk-image-test.s3.amazonaws.com/'
 
     NAVER_PAPAGO_URL = 'https://openapi.naver.com/v1/papago/n2mt'
+    NAVER_MOVIE_SEARCH_URL = 'https://openapi.naver.com/v1/search/movie.json'
+    NAVER_NEWS_SEARCH_URL = 'https://openapi.naver.com/v1/search/news.json'
+
+
 
     NAVER_CLIENT_ID = 'Djidio5sW87iKVCzshZE'
     NAVER_CLIENT_SECRET = 'qYBBvvXBZO'
+
